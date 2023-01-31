@@ -26,7 +26,6 @@ Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정�
 
 ## ⚙️ 개발 환경
 * Unity
-* C#
 * Arduino IDE
 
 ## :thought_balloon: 초기 구상도
