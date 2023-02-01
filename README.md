@@ -1,6 +1,6 @@
 # A New Life Together 2D Jump Game
 
-## 💻: 프로젝트 소개
+## 💻 프로젝트 소개
 졸업 전시 작품 프로젝트 A New Life Together의 2D 점프게임입니다. // 자세한 기획은 졸업 논문 파일 확인
 
 Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정보 전달 
@@ -9,7 +9,7 @@ Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정�
     
 [Chapter3 : 홀로렌즈 - 입양한 유기견과 상호작용](https://github.com/hachulwoo5/Holo_A-new-life-together.git)
 
-📌 스토리
+## 📌 스토리
 
 주인공 '민수'는 퀴즈게임으로 아빠에게 입양 허락을 받았고
 
