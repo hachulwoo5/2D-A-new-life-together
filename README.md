@@ -1,9 +1,9 @@
 # A New Life Together 2D Jump Game
 
 ## 💻: 프로젝트 소개
-졸업 전시 작품 프로젝트 A New Life Together의 2D 점프게임입니다. 
+졸업 전시 작품 프로젝트 A New Life Together의 2D 점프게임입니다. // 자세한 기획은 졸업 논문 파일 확인
 
-Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정보 전달
+Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정보 전달 
 
 **Chapter2 : 2D 점프게임 - 유기견을 키우는 데 필요한 것, 마음가짐을 알려주고 입양 간접체험**
     
